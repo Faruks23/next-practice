@@ -10,11 +10,11 @@ const AboutPage = () => {
       <h1 className='text-2xl'>This is AboutPage</h1>
       <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, vero doloribus cupiditate, dicta libero minus laudantium consequatur quaerat sapiente reiciendis deserunt, harum facere commodi nostrum quod sed reprehenderit. Esse, accusantium!</p>
 
-      <di className="2">
+      <div className="2">
         <h1>This is Div 2</h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime perferendis quam atque explicabo? Maiores vel adipisci incidunt minus illum facere, dicta dolorum quasi? Quo, provident! Aut molestiae voluptates officia quis.</p>
       
-      </di>
+      </div>
     </div>
   );
 };
