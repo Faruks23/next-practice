@@ -8,6 +8,7 @@ const AboutPage = () => {
   return (
     <div>
       <h1 className='text-2xl'>This is AboutPage</h1>
+      <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, vero doloribus cupiditate, dicta libero minus laudantium consequatur quaerat sapiente reiciendis deserunt, harum facere commodi nostrum quod sed reprehenderit. Esse, accusantium!</p>
     </div>
   );
 };
