@@ -14,8 +14,17 @@ const GitPage = () => {
 
 
 
+
+
       
       </p>
+
+// dev 1 add content
+      <div className="dev1">
+         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, facere harum officiis nam dolore, perspiciatis sint tenetur corrupti odio vero mollitia. Culpa, dolor. Sapiente sit ipsam obcaecati voluptates eius odit!</p>
+      
+      </div>
+
     </div>
   );
 };
