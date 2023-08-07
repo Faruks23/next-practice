@@ -11,12 +11,7 @@ const GitPage = () => {
         
         
         </div>
-
-
-
-
-
-      
+     
       </p>
 
 // dev 1 add content
