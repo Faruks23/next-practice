@@ -13,6 +13,7 @@ const AboutPage = () => {
         <h1>email:mdfaruksp2@gmail.com</h1>
         <h1>phone:01882759955</h1>
       </div>
+      <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, vero doloribus cupiditate, dicta libero minus laudantium consequatur quaerat sapiente reiciendis deserunt, harum facere commodi nostrum quod sed reprehenderit. Esse, accusantium!</p>
     </div>
   );
 };
